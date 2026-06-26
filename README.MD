@@ -17,6 +17,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Devices and Wearables](#devices-and-wearables)
 - [Research and Data Analysis](#research-and-analysis)
 - [Open Source Projects](#open-source-projects)
+  - [Wearables](#wearables)
 
 ## Websites and Resources
 
@@ -38,6 +39,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 - [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 - [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
+- [Finding the Best Sleep Tracker](https://karpathy.bearblog.dev/finding-the-best-sleep-tracker/) - Andrej Karpathy's personal comparison of consumer sleep trackers for accuracy and reliability.
 
 
 ## Books
@@ -226,6 +228,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+
+### Wearables
+
+- [OpenWhoop](https://github.com/GijungKim/openwhoop) - CLI tool to download and analyze health data directly from a Whoop 4.0 device without a subscription or Whoop's servers.
+- [Whoof](https://github.com/madhursatija/whoof/) - Local-first iOS app that connects to Whoop 4.0 and 5.0 via Bluetooth to display health metrics on-device without a subscription.
+- [Reverse Engineering Whoop](https://github.com/bWanShiTong/reverse-engineering-whoop-post) - Documentation of the Whoop 4.0 Bluetooth communication protocol obtained through reverse engineering.
+- [OpenFit](https://github.com/FlavioAdamo/openfit) - Private desktop Electron dashboard for Fitbit devices that syncs data via the Google Health API and includes an AI-powered health assistant.
+- [Goose](https://github.com/b-nnett/goose) - Local-first iOS app for Whoop 5.0 that connects via Bluetooth to provide health analytics without cloud services.
 
 ## License
 
